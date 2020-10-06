@@ -1,3 +1,6 @@
+# Пользователь вводит целое положительное число. Найдите самую большую цифру в числе.
+# Для решения используйте цикл while и арифметические операции.
+
 user_number = int(input('Input a positive integer number: '))
 multiplier = 10
 max_digit = 0
