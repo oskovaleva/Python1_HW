@@ -1,0 +1,4 @@
+Ivanov 5000
+Petrov 20000
+Sidorov 10000
+Kuznetsov 50000
